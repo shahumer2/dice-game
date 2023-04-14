@@ -1,0 +1,29 @@
+.container{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    
+}
+body{
+    background-color: #393E46;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif, cursive;
+    color:#4ECCA3;
+    font-size: 8rem;
+}
+.dice{
+    display:inline-block;
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    color:#4ECCA3 ;
+}
+img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    margin-top: 10px;
+}
